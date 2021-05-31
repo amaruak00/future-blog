@@ -1,3 +1,0 @@
-var main = {}
-
-main.init();

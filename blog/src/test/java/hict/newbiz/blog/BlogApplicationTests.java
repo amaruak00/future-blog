@@ -1,4 +1,4 @@
-package hsnc.future.blog;
+package hict.newbiz.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

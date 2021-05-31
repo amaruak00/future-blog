@@ -1,4 +1,4 @@
-package hsnc.future.blog;
+package hict.newbiz.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
